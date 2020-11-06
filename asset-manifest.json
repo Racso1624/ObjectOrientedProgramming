@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/ObjectOrientedProgramming.git/static/css/main.4625d05a.chunk.css",
+    "main.js": "/ObjectOrientedProgramming.git/static/js/main.baf356b5.chunk.js",
+    "main.js.map": "/ObjectOrientedProgramming.git/static/js/main.baf356b5.chunk.js.map",
+    "runtime-main.js": "/ObjectOrientedProgramming.git/static/js/runtime-main.0cf2ff43.js",
+    "runtime-main.js.map": "/ObjectOrientedProgramming.git/static/js/runtime-main.0cf2ff43.js.map",
+    "static/css/2.8aa5a7f8.chunk.css": "/ObjectOrientedProgramming.git/static/css/2.8aa5a7f8.chunk.css",
+    "static/js/2.49b97ce0.chunk.js": "/ObjectOrientedProgramming.git/static/js/2.49b97ce0.chunk.js",
+    "static/js/2.49b97ce0.chunk.js.map": "/ObjectOrientedProgramming.git/static/js/2.49b97ce0.chunk.js.map",
+    "index.html": "/ObjectOrientedProgramming.git/index.html",
+    "precache-manifest.de222dc31b946bc12bc5891560964748.js": "/ObjectOrientedProgramming.git/precache-manifest.de222dc31b946bc12bc5891560964748.js",
+    "service-worker.js": "/ObjectOrientedProgramming.git/service-worker.js",
+    "static/css/2.8aa5a7f8.chunk.css.map": "/ObjectOrientedProgramming.git/static/css/2.8aa5a7f8.chunk.css.map",
+    "static/css/main.4625d05a.chunk.css.map": "/ObjectOrientedProgramming.git/static/css/main.4625d05a.chunk.css.map",
+    "static/js/2.49b97ce0.chunk.js.LICENSE.txt": "/ObjectOrientedProgramming.git/static/js/2.49b97ce0.chunk.js.LICENSE.txt",
+    "static/media/algebra.jpg": "/ObjectOrientedProgramming.git/static/media/algebra.ef0ff963.jpg",
+    "static/media/aritmetic.jpg": "/ObjectOrientedProgramming.git/static/media/aritmetic.d60f2d9c.jpg",
+    "static/media/desc1.png": "/ObjectOrientedProgramming.git/static/media/desc1.c10ae814.png",
+    "static/media/desc2.png": "/ObjectOrientedProgramming.git/static/media/desc2.e5bb3e11.png",
+    "static/media/desc3.png": "/ObjectOrientedProgramming.git/static/media/desc3.1bb861bb.png",
+    "static/media/eap.png": "/ObjectOrientedProgramming.git/static/media/eap.7c8353c1.png",
+    "static/media/el_tio.jpg": "/ObjectOrientedProgramming.git/static/media/el_tio.42a4eaee.jpg",
+    "static/media/flechita.png": "/ObjectOrientedProgramming.git/static/media/flechita.4e0e0999.png",
+    "static/media/geometria.jpg": "/ObjectOrientedProgramming.git/static/media/geometria.542d3571.jpg",
+    "static/media/logo.png": "/ObjectOrientedProgramming.git/static/media/logo.2150b75a.png",
+    "static/media/marco.png": "/ObjectOrientedProgramming.git/static/media/marco.2f4895b2.png",
+    "static/media/oscar.jpg": "/ObjectOrientedProgramming.git/static/media/oscar.710b277e.jpg",
+    "static/media/papelesgeometria.png": "/ObjectOrientedProgramming.git/static/media/papelesgeometria.a1caaeb2.png",
+    "static/media/quienes.png": "/ObjectOrientedProgramming.git/static/media/quienes.8b3b03fc.png",
+    "static/media/santiago.jpg": "/ObjectOrientedProgramming.git/static/media/santiago.d1178212.jpg",
+    "static/media/yong.jpg": "/ObjectOrientedProgramming.git/static/media/yong.5f35baf5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0cf2ff43.js",
+    "static/css/2.8aa5a7f8.chunk.css",
+    "static/js/2.49b97ce0.chunk.js",
+    "static/css/main.4625d05a.chunk.css",
+    "static/js/main.baf356b5.chunk.js"
+  ]
+}
